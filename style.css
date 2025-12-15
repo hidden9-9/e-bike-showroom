@@ -1,0 +1,6 @@
+﻿body{font-family:Arial;padding:30px;background:#f4f4f4}
+.center{text-align:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,200px);gap:20px}
+.card{background:white;padding:30px;cursor:pointer;border-radius:10px;text-align:center}
+button{padding:10px 20px;margin-top:10px}
+input{display:block;margin:10px auto;padding:10px;width:250px}
